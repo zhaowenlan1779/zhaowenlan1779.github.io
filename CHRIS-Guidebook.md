@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "C.H.R.I.S. 麻雀完全指南 - Player's Guidebook"
 permalink: /CHRIS/
 ---
